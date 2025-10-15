@@ -1,0 +1,14 @@
+.outer{
+  margin: auto;
+  margin-top: 200px;
+  width: 600px;
+}
+.inner{
+  display: flex;
+  flex-direction: column;
+  width: max-content;
+}
+.but{
+  display: flex;
+   gap: 10px;
+}
