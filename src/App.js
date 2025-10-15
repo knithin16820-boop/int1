@@ -46,5 +46,5 @@ function App() {
     </div>
   )
 }
-
+//git remote add  origin https://github.com/knithin16820-boop/internal.git
 export default App
